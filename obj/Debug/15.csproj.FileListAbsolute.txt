@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\bin\Debug\15.exe.config
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\bin\Debug\15.exe
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\bin\Debug\15.pdb
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\obj\Debug\15.exe
+C:\Users\IET\Desktop\DotNet6769\Assignments\15\15\obj\Debug\15.pdb
+C:\Users\dac\Desktop\dotnet\rp\15\15\bin\Debug\15.exe.config
+C:\Users\dac\Desktop\dotnet\rp\15\15\obj\Debug\15.exe
+C:\Users\dac\Desktop\dotnet\rp\15\15\obj\Debug\15.pdb
+C:\Users\dac\Desktop\dotnet\rp\15\15\bin\Debug\15.exe
+C:\Users\dac\Desktop\dotnet\rp\15\15\bin\Debug\15.pdb
+C:\Users\dac\Desktop\dotnet\rp\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
